@@ -1,1 +1,10 @@
 
+.guilds-wrapper {
+    opacity:0;
+    max-width:10px;
+    transition: all .3s ease-in-out;
+}
+.guilds-wrapper:hover{
+    opacity:1;
+    max-width:70px;
+}
