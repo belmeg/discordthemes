@@ -44,19 +44,52 @@ background: var(--background-image);background-position: center;;background-size
     width: 45px;
 }
 .guilds-wrapper .guilds .friends-icon:hover{
-    background-image: url(https://pre00.deviantart.net/e751/th/pre/f/2012/312/7/3/microsoft___windows_8_logo_by_n_studios_2-d5keldy.png);
-     background-position: 50%;
+    background-image: url(https://i.imgur.com/aHw3huz.png);
+    background-position: 50%;
+    transition: all  1s ease-in-out;
     background-repeat: no-repeat;
-    background-size: 30px 30px;
-    height: 45px;
+    background-size: 50px 50px;
+    height: 55px;
     width: 45px;
 }
 .guilds-wrapper {
     opacity:0;
     max-width:10px;
-    transition: all .3s ease-in-out;
+    transition: all  .1s ease-in-out;
 }
 .guilds-wrapper:hover{
     opacity:1;
     max-width:70px;
+}
+.contentSelectedText-3wUhMi {
+    background-color: rgb(1, 41, 77);
+}
+.message-group .emoji{
+ height: 80px;
+ width: 70px;
+}
+.itemGroup-1tL0uz > .itemSubMenu-1vN_Yn ~ .item-1Yvehc:last-child span{
+    color:red;
+}
+.content-column.default > div > div > div:nth-child(2) > div > div[style="padding: 10px;"]:nth-child(1){
+  display:none!important;
+}
+.contentSelectedText-3wUhMi {
+ background: linear-gradient(to left, transparent,
+ rgba(23,18,20,.1),
+ rgba(0,91,100,1));
+}
+.contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
+background: linear-gradient(to left, transparent,
+ rgba(223,309,920,.1),
+ rgba(0,100,10,1));
+}
+.emote{
+ height: 30px;
+ width: 25px;
+}
+.theme-dark #friends .friends-table .friends-row:hover {
+background: linear-gradient(to left, transparent,
+ rgba(23,18,20,1),
+ rgba(0,91,100,1));
 }
