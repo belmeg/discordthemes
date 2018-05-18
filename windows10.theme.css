@@ -93,3 +93,39 @@ background: linear-gradient(to left, transparent,
  rgba(23,18,20,1),
  rgba(0,91,100,1));
 }
+.avatar-small{
+ height:40px;
+width:40px;
+background-repeat:none;
+background-size: cover;
+background-position: center;
+}
+.theme-dark .inner-zqa7da {
+    background-color: hsla(224, 79%, 57%, 0.4);
+    border-left: 6px solid rgba(0, 35, 255, 0.69);
+}
+.chat .avatar-large {
+    -webkit-transition: opacity .2s ease;
+    cursor: pointer;
+    opacity: 1;
+    transition: opacity .2s ease;
+    height: 80px;
+    width: 80px;
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+}
+.theme-dark div[class^="userPopout-"] {
+    width: 420px;
+    height: calc(100vh - 32px);
+    background-color: #191919;
+    border-radius: 0;
+    transform: none !important;
+}
+.theme-dark div[class^="userPopout-"] {
+    width: 420px;
+    height: calc(100vh - 32px);
+    background-color: #191919;
+    border-radius: 0;
+    transform: none !important;
+}
