@@ -1,4 +1,7 @@
 //META{"name":"windows 10 theme","description":" A better version of discord for discord","author":"Reuben","version":"1.0"}*//{}
+
+@import url('https://github.com/gco360/windows-10-theme/blob/master/windows.css');
+
 :root{
     --background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDb500xNVeENBFQfJJscUDUNRefeifyjpOjmh3bjtojJdnGYz-ug);
     --background-brightness: 0.6;/*Values between 0 and 1*/
