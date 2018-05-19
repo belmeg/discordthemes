@@ -115,15 +115,6 @@ background-position: center;
     background-size: cover;
     background-position: center;
 }
-.container-16j22k img, .container-16j22k video { 
-    height: 500px;
-    width: 500px;
+.container-16j22k img, .container-16j22k video { height: 500px; width: 500px;
 }
-.ui-standard-sidebar-view .sidebar-region .sidebar {
-    opacity:0;
-    max-width:100px;
-}
-.ui-standard-sidebar-view .sidebar-region .sidebar:hover{
-    opacity:1;
-    max-width:700px;
-}
+
