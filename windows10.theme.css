@@ -117,4 +117,36 @@ background-position: center;
 }
 .container-16j22k img, .container-16j22k video { height: 500px; width: 500px;
 }
+.container-2Thooq {
+    background-color: rgba(0,0,0,0) !important;
+    border-top: 5px solid #7289da;
+}
+.accountDetails-3k9g4n .username {
+    display: block;
+    max-width: 84px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: Segoe UI;
+    font-size: large;
+}
+.theme-dark .userSettingsAccount-2eMFVR .viewBody-2Qz-jg {
+    color: #b9bbbe;
+    font-family: segoe UI;
+    font-size: larger;
+}
+.mentioned .mention:hover {
+    color: #ff0021;
+
+}
+.role-2irmRk {
+    -webkit-box-sizing: border-box;
+    border: 1px solid;
+    border-radius: 1px;
+    box-sizing: content-box;
+    height: 22px;
+    margin: 0 4px 4px 0;
+    padding: 4px;
+    font-family: segoe UI;
+}
 
