@@ -115,17 +115,4 @@ background-position: center;
     background-size: cover;
     background-position: center;
 }
-.theme-dark div[class^="userPopout-"] {
-    width: 420px;
-    height: calc(100vh - 32px);
-    background-color: #191919;
-    border-radius: 0;
-    transform: none !important;
-}
-.theme-dark div[class^="userPopout-"] {
-    width: 420px;
-    height: calc(100vh - 32px);
-    background-color: #191919;
-    border-radius: 0;
-    transform: none !important;
-}
+.container-16j22k img, .container-16j22k video { height: 500px; width: 500px; }
