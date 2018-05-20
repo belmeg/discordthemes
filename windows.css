@@ -164,3 +164,14 @@ div[class^="channels-"]::after {
   color: #FFF;
   font-size: 10px;
   text-align: center; }
+#dv-mount {
+    background-color: rgba(47, 49, 54, 0);
+    bottom: 0;
+    box-sizing: border-box;
+    display: flex;
+    height: 95px;
+    justify-content: center;
+    position: absolute;
+    width: 240px;
+    z-index: 256;
+}
