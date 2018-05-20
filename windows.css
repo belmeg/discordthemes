@@ -135,5 +135,13 @@ background-position: center;
 .theme-dark .noChannel-Z1DQK7 {
     background: rgba(54, 57, 63, 0);
 }
-
-
+.role-2irmRk {
+    -webkit-box-sizing: border-box;
+    border: 1px solid;
+    border-radius: 1px;
+    box-sizing: content-box;
+    margin: 0 4px 4px 0;
+    padding: 4px;
+    font-size: larger;
+    font-family: segoe UI;
+}
