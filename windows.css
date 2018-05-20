@@ -108,8 +108,7 @@ background-position: center;
     background-size: cover;
     background-position: center;
 }
-.container-16j22k img, .container-16j22k video { height: 500px; width: 500px;
-}
+.container-16j22k img, .container-16j22k video { height: 300px; width: 500px; }
 .container-2Thooq {
     background-color: rgba(0,0,0,0) !important;
     border-top: 5px solid #7289da;
