@@ -1,11 +1,208 @@
 //META{"name":"windows 10 theme","description":" A better version of discord for discord","author":"Reuben","version":"1.0"}*//{}
-
-@import url('https://rawgit.com/gco360/windows-10-theme/master/windows.css');
-
 :root{
     --background-image: url(https://images7.alphacoders.com/602/thumb-1920-602847.jpg);
     --background-brightness: 0.6;/*Values between 0 and 1*/
 
 }
+.app {
+background: var(--background-image);background-position: center;;background-size: cover;}
+.ui-standard-sidebar-view .sidebar-region {background: rgba(0,0,0,0) !important;}
+.layers-3iHuyZ, .layer-3QrUeG, .container-PNkimc, .typing-2GQL18 {background: rgba(0,0,0,0) !important;}
+/* optionally adjust background brightness (0: original image, 1: black) */
+.layers-3iHuyZ{background: rgba(0,0,0,var(--background-brightness)) !important;}
+/*Layer Transparency*/
+.content .flex-spacer{background-color: rgba(0,0,0,0) !important;}
+.content-region{background-color: rgba(0,0,0,0) !important;}
+.headerBar-UHpsPw{background-color: rgba(0,0,0,0) !important;}
+.noChannel-2EQ0a9{background-color: rgba(0,0,0,0) !important;}
+.channels-Ie2l6A{background-color: rgba(0,0,0,0) !important;}
+.title-qAcLxz{background-color: rgba(0,0,0,0) !important;}
+.container-2Thooq{background-color: rgba(0,0,0,0) !important;}
+.container-PNkimc{background-color: rgba(0,0,0,0) !important;}
+.container-GLDMJI{background-color: rgba(0,0,0,0) !important;}
+.guilds-wrapper{background-color: rgba(0,0,0,0) !important;}
+.chat form.typing-2GQL18{background-color: rgba(0,0,0,0) !important;}
+.chat form{background-color: rgba(0,0,0,0) !important;}
+.chat>.content{background-color: rgba(0,0,0,0) !important;}
+.chat{background-color:rgba(0,0,0,0)!important;}
+.chat .messages{background-color: rgba(0,0,0,0) !important;}
+.friends-table, .messages-wrapper{background-color: rgba(0,0,0,0) !important;}
+.members-1998pB{background-color: rgba(0,0,0,0) !important;}
+#friends{background-color: rgba(0,0,0,0) !important;}
+.title-3qD0b-{background-color: rgba(0,0,0,0) !important;}
+.ui-standard-sidebar-view{background-color: rgba(0,0,0,0) !important;}
+.ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller,
+.ui-standard-sidebar-view .content-region .content-region-scroller-wrap{background: rgba(0,0,0,0.4);}
+.container-2lgZY8{background-color: rgba(0,0,0,0) !important;}
+.guilds-wrapper .guilds .friends-icon {
+    background-image: url(https://i.imgur.com/mrwgSU2.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+    height: 55px;
+    width: 45px;
+}
+.guilds-wrapper .guilds .friends-icon:hover{
+    background-image: url(https://i.imgur.com/aHw3huz.png);
+    background-position: 50%;
+    transition: all  1s ease-in-out;
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+    height: 55px;
+    width: 45px;
+}
+.guilds-wrapper {
+    opacity:0;
+    max-width:10px;
+    transition: all  .1s ease-in-out;
+}
+.guilds-wrapper:hover{
+    opacity:1;
+    max-width:70px;
+}
+.contentSelectedText-3wUhMi {
+    background-color: rgb(1, 41, 77);
+}
+.message-group .emoji{
+ height: 80px;
+ width: 70px;
+}
+.itemGroup-1tL0uz > .itemSubMenu-1vN_Yn ~ .item-1Yvehc:last-child span{
+    color:red;
+}
+.content-column.default > div > div > div:nth-child(2) > div > div[style="padding: 10px;"]:nth-child(1){
+  display:none!important;
+}
+.contentSelectedText-3wUhMi {
+ background: linear-gradient(to left, transparent,
+ rgba(23,18,20,.1),
+ rgba(0,91,100,1));
+}
+.contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
+background: linear-gradient(to left, transparent,
+ rgba(223,309,920,.1),
+ rgba(0,100,10,1));
+}
+.emote{
+ height: 30px;
+ width: 25px;
+}
+.theme-dark #friends .friends-table .friends-row:hover {
+background: linear-gradient(to left, transparent,
+ rgba(23,18,20,1),
+ rgba(0,91,100,1));
+}
+.avatar-small{
+ height:40px;
+width:40px;
+background-repeat:none;
+background-size: cover;
+background-position: center;
+}
+.theme-dark .inner-zqa7da {
+    background-color: hsla(224, 79%, 57%, 0.4);
+    border-left: 6px solid rgba(0, 35, 255, 0.69);
+}
+.chat .avatar-large {
+    -webkit-transition: opacity .2s ease;
+    cursor: pointer;
+    opacity: 1;
+    transition: opacity .2s ease;
+    height: 80px;
+    width: 80px;
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+}
+.container-16j22k img, .container-16j22k video { height: 300px; width: 500px; }
+.container-2Thooq {
+    background-color: rgba(0,0,0,0) !important;
+    border-top: 5px solid #7289da;
+}
+.accountDetails-3k9g4n .username {
+    display: block;
+    max-width: 84px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: Segoe UI;
+    font-size: large;
+}
+.theme-dark .userSettingsAccount-2eMFVR .viewBody-2Qz-jg {
+    color: #b9bbbe;
+    font-family: segoe UI;
+    font-size: larger;
+}
+.mentioned .mention:hover {
+    color: #ff0021;
 
+}
+.theme-dark .noChannel-Z1DQK7 {
+    background: rgba(54, 57, 63, 0);
+}
+.role-2irmRk {
+    -webkit-box-sizing: border-box;
+    border: 1px solid;
+    border-radius: 1px;
+    box-sizing: content-box;
+    margin: 0 4px 4px 0;
+    padding: 4px;
+    font-size: larger;
+    font-family: segoe UI;
+}
+.message-group .avatar-large[style*="306060056271519745"] ~ .comment .message h2 span.username-wrapper::after {
+    background-color: #f04747 !important;
+    padding: 0px 4px;
+    border: 2px outset rgba(255, 255, 255, 0.01);
+    content: "Theme developer";
+    text-transform: uppercase;
+    display: inline-block;
+    margin-left: 4px;
+    font-size: small;
+    text-shadow: 0 0 2px rgba(255, 255, 255, 0);
+}
+div[class^="channels-"]::after {
+  content: "windows theme ";
+  width: 100%;
+  height: auto;
+  padding: 0 0 6px;
+  color: #FFF;
+  font-size: 10px;
+  text-align: center; }
+#dv-mount {
+    background-color: rgba(47, 49, 54, 0);
+    bottom: 0;
+    box-sizing: border-box;
+    display: flex;
+    height: 95px;
+    justify-content: center;
+    position: absolute;
+    width: 240px;
+    z-index: 256;
+}
+.spinner .spinner-wandering-cubes span:first-of-type {
+  width: 32px;
+  height: 32px;
+  background-color: transparent;
+  background-image: url(https://i.imgur.com/MfeQkLJ.gif);
+  background-position: center center;
+  background-size: 32px 32px;
+  filter: invert(100%);
+  animation: none; }
+
+.spinner .spinner-wandering-cubes span:last-of-type {
+  display: none; }
+
+span[class^="spinner-"] span[class^="inner-"] span[class^="wanderingCubesItem"]:first-of-type {
+  width: 32px;
+  height: 32px;
+  background-color: transparent;
+  background-image: url(https://i.imgur.com/MfeQkLJ.gif);
+  background-position: center center;
+  background-size: 32px 32px;
+  filter: invert(100%);
+  animation: none; }
+
+span[class^="spinner-"] span[class^="inner-"] span[class^="wanderingCubesItem"]:last-of-type {
+  display: none; }
  
