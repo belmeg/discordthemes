@@ -156,3 +156,11 @@ background-position: center;
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
 }
+div[class^="channels-"]::after {
+  content: "windows theme ";
+  width: 100%;
+  height: auto;
+  padding: 0 0 6px;
+  color: #FFF;
+  font-size: 10px;
+  text-align: center; }
