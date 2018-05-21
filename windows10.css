@@ -229,3 +229,10 @@ span[class^="spinner-"] span[class^="inner-"] span[class^="wanderingCubesItem"]:
     background: rgba(95, 141, 210, 0.6);
     border-color: rgba(32, 34, 37, 0);
 }
+.container-16j22k div[class^="content-"] {
+    background-image: url(https://i.imgur.com/MfeQkLJ.gif);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 32px;
+    -webkit-filter: invert(100%);
+}
