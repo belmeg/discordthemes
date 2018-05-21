@@ -280,24 +280,4 @@ span[class^="spinner-"] span[class^="inner-"] span[class^="wanderingCubesItem"]:
     .container-16j22k div[class^="problems-"] a[class^="statusLink"] {
       margin-left: 4px;
 }
-.chat div[class^="titleWrapper"] svg[name="NotificationBell"] {
-  background-image: url(https://i.imgur.com/RaZ28d3.png) !important; }
-
-.chat div[class^="titleWrapper"] svg[name="NotificationBellOff"] {
-  background-image: url(https://i.imgur.com/5geInIL.png) !important; }
-
-.chat div[class^="titleWrapper"] svg[name="Pin"] {
-  background-image: url(https://i.imgur.com/izls82J.png) !important; }
-
-.chat div[class^="titleWrapper"] svg[name="People"] {
-  background-image: url(https://i.imgur.com/CvOekTN.png) !important; }
-
-.chat div[class^="titleWrapper"] div[class^="search-"] .search-bar 
-{
-  background-image: url(https://i.imgur.com/LNjigFS.png); }
-
-#friends div[class*="headerBar"] svg[name="Mention"],
-.chat div[class^="titleWrapper"] svg[name="Mention"] {
-  background-image: url(https://i.imgur.com/R4Hezx9.png) !important;
-}
 
