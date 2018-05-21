@@ -229,10 +229,51 @@ span[class^="spinner-"] span[class^="inner-"] span[class^="wanderingCubesItem"]:
     background: rgba(95, 141, 210, 0.6);
     border-color: rgba(32, 34, 37, 0);
 }
-.container-16j22k div[class^="content-"] {
+.container-16j22k {
+  background-color: #191919; }
+  .container-16j22k div[class^="content-"] {
     background-image: url(https://i.imgur.com/MfeQkLJ.gif);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: 32px;
-    -webkit-filter: invert(100%);
-}
+    -webkit-filter: invert(100%); }
+  .container-16j22k video {
+    display: none; }
+    .container-16j22k video img {
+      display: none; }
+  .container-16j22k div[class^="quote-"],
+  .container-16j22k div[class^="attribution-"] {
+    display: none; }
+  .container-16j22k div[class^="status-"] {
+    margin-top: 64px;
+    color: #FFF;
+    font-family: "Segoe UI Light", "Selawiklight";
+    font-size: 32px;
+    font-weight: 400;
+    text-transform: none;
+    -webkit-filter: invert(100%); }
+  .container-16j22k div[class^="problems-"] {
+    align-items: flex-end;
+    padding-right: 20px;
+    padding-bottom: 20px; }
+    .container-16j22k div[class^="problems-"] div[class^="problemsText-"] {
+      display: none; }
+    .container-16j22k div[class^="problems-"] a[class^="twitterLink"],
+    .container-16j22k div[class^="problems-"] a[class^="statusLink"] {
+      width: 48px;
+      height: 48px;
+      display: inline-block;
+      font-size: 0;
+      transition: background .3s; }
+      .container-16j22k div[class^="problems-"] a[class^="twitterLink"]::before,
+      .container-16j22k div[class^="problems-"] a[class^="statusLink"]::before {
+        width: 48px;
+        height: 48px;
+        -webkit-background-size: 20px;
+        background-size: 20px; }
+      .container-16j22k div[class^="problems-"] a[class^="twitterLink"]:hover,
+      .container-16j22k div[class^="problems-"] a[class^="statusLink"]:hover {
+        background-color: rgba(255, 255, 255, 0.1);
+        transition: background .3s; }
+    .container-16j22k div[class^="problems-"] a[class^="statusLink"] {
+      margin-left: 4px; }
