@@ -197,3 +197,11 @@ div[class^="channels-"]::after {
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
 }
+.theme-dark .searchOption-zQ-1l6 .filter-3Y_im- {
+    color: #caccce;
+    font-family: "Segoe UI";
+}
+.theme-dark .resultsGroup-r_nuzN .header-2N-gMV {
+    color: #cacbce;
+    font-family: segoe UI;
+}
