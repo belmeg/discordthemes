@@ -314,4 +314,9 @@ div[class*="titleBar-"] div[class*="winButton-"] {
 
 div[class*="titleBar-"] div[class*="winButtonClose-"]:hover {
   background-color: #E81123; }
-
+div[class^="contextMenu-"].theme-dark {
+    background-color: #191919;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 0;
+    box-shadow: none;
+}
