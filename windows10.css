@@ -280,4 +280,19 @@ span[class^="spinner-"] span[class^="inner-"] span[class^="wanderingCubesItem"]:
     .container-16j22k div[class^="problems-"] a[class^="statusLink"] {
       margin-left: 4px;
 }
+div[class^="typeWindows-"] div[class^="wordmark"]::after {
+  content: "Discord windows 10";
+  color: #FFF;
+  font-size: 15px;
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  display: block; }
 
+div[class*="titleBar-"] div[class*="winButton-"] {
+  width: 45px;
+  height: 32px;
+  opacity: 1; }
+
+div[class*="titleBar-"] div[class*="winButtonClose-"]:hover {
+  background-color: #E81123; }
