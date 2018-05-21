@@ -186,4 +186,14 @@ div[class^="channels-"]::after {
     width: 240px;
     z-index: 256;
 }
-
+.message-group .avatar-large[style*="124017508662378500"] ~ .comment .message h2 span.username-wrapper::after {
+    background-color: #f04747 !important;
+    padding: 0px 4px;
+    border: 2px outset rgba(255, 255, 255, 0.01);
+    content: "Theme Developer [code stuff]"
+    text-transform: uppercase;
+    display: inline-block;
+    margin-left: 4px;
+    font-size: small;
+    text-shadow: 0 0 2px rgba(255, 255, 255, 0);
+}
