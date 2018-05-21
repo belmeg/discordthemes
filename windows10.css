@@ -280,3 +280,8 @@ span[class^="spinner-"] span[class^="inner-"] span[class^="wanderingCubesItem"]:
     .container-16j22k div[class^="problems-"] a[class^="statusLink"] {
       margin-left: 4px;
 }
+.chat div[class^="titleWrapper"] svg[name="NotificationBell"] {
+  background-image: url(https://i.imgur.com/RaZ28d3.png) !important; }
+
+.chat div[class^="titleWrapper"] svg[name="NotificationBellOff"] {
+  background-image: url(https://i.imgur.com/5geInIL.png) !important; }
