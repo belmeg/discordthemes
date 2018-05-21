@@ -316,3 +316,20 @@ div[class^="contextMenu-"].theme-dark {
     box-shadow: none;
 }
 .contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active { background: linear-gradient(to left, transparent, hsla(0, 0%, 100%, 0), #546ab9); }
+.container-1UB9sr {
+    -ms-flex-align: center;
+    -ms-flex-negative: 0;
+    -webkit-box-align: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0);
+    border-bottom: 1px solid rgba(54, 57, 63, 0);
+    color: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-shrink: 0;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 10px;
+}
+
