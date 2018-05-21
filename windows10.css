@@ -72,11 +72,6 @@ background: var(--background-image);background-position: center;;background-size
  rgba(23,18,20,.1),
  rgba(0,91,100,1));
 }
-.contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
-background: linear-gradient(to left, transparent,
- rgba(223,309,920,.1),
- rgba(0,100,10,1));
-}
 .emote{
  height: 30px;
  width: 25px;
@@ -320,3 +315,4 @@ div[class^="contextMenu-"].theme-dark {
     border-radius: 0;
     box-shadow: none;
 }
+.contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active { background: linear-gradient(to left, transparent, hsla(0, 0%, 100%, 0), #546ab9); }
