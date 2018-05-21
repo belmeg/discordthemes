@@ -291,3 +291,10 @@ span[class^="spinner-"] span[class^="inner-"] span[class^="wanderingCubesItem"]:
 
 .chat div[class^="titleWrapper"] svg[name="People"] {
   background-image: url(https://i.imgur.com/CvOekTN.png) !important; }
+
+.chat div[class^="titleWrapper"] div[class^="search-"] .search-bar {
+  background-image: url(https://i.imgur.com/LNjigFS.png); }
+
+#friends div[class*="headerBar"] svg[name="Mention"],
+.chat div[class^="titleWrapper"] svg[name="Mention"] {
+  background-image: url(https://i.imgur.com/R4Hezx9.png) !important; }
