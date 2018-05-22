@@ -344,3 +344,11 @@ div[class^="contextMenu-"].theme-dark {
 .theme-dark .selectorSelected-1_M1WV {
     background-color: rgba(67, 119, 222, 0.41);
 }
+.private-channels .channel.selected a {
+    background-color: rgba(58, 113, 193, 0.43);
+    color: #fff;
+}
+.private-channels .channel:hover a {
+    background-color: rgba(240, 71, 71, 0.56);
+    color: #fff;
+}
