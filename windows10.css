@@ -45,6 +45,16 @@ background: var(--background-image);background-position: center;;background-size
     height: 55px;
     width: 45px;
 }
+.mention {
+    -webkit-transition: background-color .05s,color .05s;
+    background: #43b581;
+    color: #43b581;
+    font-weight: 500;
+    transition: background-color .05s,color .05s;
+}
+.mentioned .mention:hover {
+    color: #43b581;
+}
 .guilds-wrapper {
     opacity:0;
     max-width:10px;
