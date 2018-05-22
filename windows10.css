@@ -108,6 +108,9 @@ background-position: center;
     background-color: hsla(224, 79%, 57%, 0.4);
     border-left: 6px solid rgba(0, 35, 255, 0.69);
 }
+.theme-dark .user-settings-games .not-detected, .theme-light .user-settings-games .not-detected {
+    background-color: #3a75bf;
+}
 #bd-settings-sidebar .ui-tab-bar-item.selected {
     color: #fff;
     background-color: #da7272;
