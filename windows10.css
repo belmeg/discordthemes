@@ -249,6 +249,10 @@ background-position: center;
     color: #cacbce;
     font-family: segoe UI;
 }
+.theme-dark .card-FDVird:before {
+    background-color: rgba(240, 71, 71, 0.54);
+    border-color: rgba(43, 46, 50, 0);
+}
 .spinner .spinner-wandering-cubes span:first-of-type {
   width: 32px;
   height: 32px;
