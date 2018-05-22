@@ -2501,3 +2501,6 @@ div[class^="connectedAccountOpenIcon"] {
     background: #7289da;
     background-image: url(https://wallpapercave.com/wp/NF7StKc.jpg);
 }
+.inner-1JeGVc div[class*="body-"] {
+    background-color: rgba(25, 25, 25, 0.01);
+}
