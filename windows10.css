@@ -2551,3 +2551,8 @@ div[class^="uploadModal"] {
     background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAMAAADzapwJAAAAS1BMV…S4+q4yqfXPb5og88xIujECmz/GQcaHG+NoMt9Z9AYSIZzzBkhjB7ek8/XEAAAAAElFTkSuQmCC) !important;
     background-color: purple;
 }
+.theme-dark .search-results-wrap .channel-separator .channel-name {
+    background-color: rgba(47, 49, 54, 0);
+    color: #fff;
+    font-family: segoe UI;
+}
