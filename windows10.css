@@ -337,3 +337,7 @@ div[class^="contextMenu-"].theme-dark {
     color: #fff;
     font-family: segoe UI;
 }
+.autocompleteInner-zh20B_ {
+    padding-bottom: 8px;
+    background-color: hsla(251, 73%, 47%, 0.61);
+}
