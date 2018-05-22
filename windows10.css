@@ -183,6 +183,11 @@ background-position: center;
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
 }
+.theme-dark .description-3_Ncsb, .theme-dark .labelDescriptor-1PqHgD {
+    color: #72767d;
+    font-size: small;
+    font-family: segoe UI;
+}
 #dv-mount {
     background-color: rgba(47, 49, 54, 0);
     bottom: 0;
