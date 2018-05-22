@@ -2444,10 +2444,6 @@ div[class^="emojiPicker"] {
 
 #friends div[class*="headerBar"] svg[name="Compose"] {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////8IX9KGAAAAFXRSTlMAECAwQFBgcJCfoK+wv8DP0N/g7/AJGSj8AAAAv0lEQVR4Ac3RUYrDMAyEYY27zrZp6jT2/ve/6oKrYBDOe79nwcwg+zrpeRzPZJdSA2jXFxtFKmx25Q+ZiWOa3R7pc5Colh5tdBnZWnlJL9bY5cxeb3S3NXbx7NboWotdPBtKlnKBs8vJs7lbd8e7jJJ0xVyhkzntdNncD91+Xrypi2zZxi+2bMqV3bpfqma/UGXxxDz/RfZWcPGLBPFZcX+0xv1RCvsj7WF/9KZm+f6Zhaqxf6KQx/4Z0Nj/Vf4BRpsQfPeA1cQAAAAASUVORK5CYII=) !important; }
-
-.guilds-wrapper .guilds .friends-icon {
-  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////8IX9KGAAAAFXRSTlMAEDA/QFBgcH+An6CvsMDP0N/g7/D7gZQ0AAAAoklEQVR42t2Syw6DIBBFR4qOtiJYOP//q02aEBXHjaums7rknuTOA/m16sYIceyu/CHzrdxf+BC8iA9gEl1mqGS2UiZClYHJABK+Sk80ANjrO8Cyj1jMJueNVWvMso1ZzGX2MD9E/FwXZREA1/5agdUkXpDUiThN8LT8olVrORM9xW0vd+7jfRxdWdu/kNrTDYd3aHenhCbBHQHXZIBx3D+qD61FCVZohaN9AAAAAElFTkSuQmCC); }
-
 .guilds-wrapper .guilds-add {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAQMAAABJtOi3AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAABpJREFUCNdjYMAJGBtIJNj//38AIUjXiwsAAO67D98UrrLcAAAAAElFTkSuQmCC); }
 
