@@ -111,6 +111,13 @@ background: var(--background-image);background-position: center;;background-size
     top: 50%;
     width: 4px;
 }
+.mention {
+    -webkit-transition: background-color .05s,color .05s;
+    background: #f1f3fb;
+    color: #f50707;
+    font-weight: 500;
+    transition: background-color .05s,color .05s;
+}
 a {
     -webkit-transition: opacity .5s,color .5s;
     color: rgba(244, 205, 0, 0.95);
