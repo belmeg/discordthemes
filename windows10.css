@@ -2656,3 +2656,32 @@ div[class^="uploadModal"] {
     background-color: rgba(69, 116, 210, 0.41);
     color: #fff;
 }
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary {
+    background-color: #43b581;
+    color: #fff;
+}
+.header-1R_AjF{
+    color: #faa61a;
+}
+.theme-dark .modal-3HD5ck {
+    -webkit-box-shadow: 0 0 0 1px #43b581, 0 2px 10px 0 rgba(0,0,0,.2);
+    background-color: #5f2d5e;
+    box-shadow: 0 0 0 1px rgba(32,34,37,.6), 0 2px 10px 0 rgba(0,0,0,.2);
+}
+.chat .jump-to-present-bar button:first-child {
+    -ms-flex: 1;
+    -webkit-box-flex: 1;
+    flex: 1;
+    font-size: 14px;
+    font-family: segoe UI;
+    background-color: rgba(251, 22, 22, 0.01);
+}
+.themeDefault-24hCdX.valueChecked-m-4IJZ{
+    background: #a43858 !important;
+}
+.valueUnchecked-2lU_20 {
+    background-color: blueviolet;
+}
+.theme-dark .chat .jump-to-present-bar {
+    background-color: rgb(255, 120, 10);
+}
