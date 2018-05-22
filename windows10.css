@@ -2640,3 +2640,7 @@ div[class^="uploadModal"] {
     background-color: rgba(25, 25, 25, 0);
     border: 0;
 }
+.theme-dark .card-FDVird:before {
+    background-color: rgba(40, 67, 165, 0.63);
+    border-color: rgba(43, 46, 50, 0);
+}
