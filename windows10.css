@@ -2534,3 +2534,7 @@ div[class^="uploadModal"] {
     border-radius: 0;
     background-image: url(https://wallpapercave.com/wp/NF7StKc.jpg);
 }
+.theme-dark .item-1Yvehc:hover {
+    background: #25282d;
+    color: #f00;
+}
