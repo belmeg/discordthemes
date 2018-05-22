@@ -54,6 +54,10 @@ background: var(--background-image);background-position: center;;background-size
     opacity:1;
     max-width:70px;
 }
+.theme-dark #friends .tab-bar .tab-bar-item.selected {
+    background-color: #faa61a;
+    color: #000000;
+}
 #bd-settings-sidebar .ui-tab-bar-item:hover {
     color: #f6f6f7;
     background-color: #43b581;
