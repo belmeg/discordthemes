@@ -71,6 +71,19 @@ background: var(--background-image);background-position: center;;background-size
 .itemGroup-1tL0uz > .itemSubMenu-1vN_Yn ~ .item-1Yvehc:last-child span{
     color:red;
 }
+#friends .btn:hover {
+    background-color: #b5435f;
+}
+#friends .btn {
+    background-color: #f04747;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 10px;
+    padding: 4px 8px;
+}
 .guilds-wrapper .guilds .guild.unread:before {
     background: #f04747;
     border-radius: 5px;
