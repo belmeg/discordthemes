@@ -2528,3 +2528,9 @@ div[class^="connectedAccountOpenIcon"] {
 .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
     background-color: #f04747;
 }
+div[class^="uploadModal"] {
+    background-color: #191919;
+    border: 1px solid var(--accent);
+    border-radius: 0;
+    background-image: url(https://wallpapercave.com/wp/NF7StKc.jpg);
+}
