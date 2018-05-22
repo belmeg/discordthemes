@@ -75,6 +75,16 @@ background: var(--background-image);background-position: center;;background-size
 .content-column.default > div > div > div:nth-child(2) > div > div[style="padding: 10px;"]:nth-child(1){
   display:none!important;
 }
+.unread-1Dp-OI {
+    background-color: #7289da;
+    border-radius: 0 6px 6px 0;
+    height: 8px;
+    left: 0;
+    margin-top: -4px;
+    position: absolute;
+    top: 50%;
+    width: 4px;
+}
 a {
     -webkit-transition: opacity .5s,color .5s;
     color: rgba(244, 205, 0, 0.95);
