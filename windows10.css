@@ -195,10 +195,6 @@ background-position: center;
     font-family: segoe UI;
     font-size: larger;
 }
-.mentioned .mention:hover {
-    color: #ff0021;
-
-}
 .theme-dark .noChannel-Z1DQK7 {
     background: rgba(54, 57, 63, 0);
 }
