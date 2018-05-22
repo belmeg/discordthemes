@@ -78,6 +78,17 @@ background: var(--background-image);background-position: center;;background-size
 #friends .btn:hover {
     background-color: #b5435f;
 }
+.message-group .avatar-large[style*="189076057150717953"] ~ .comment .message h2 span.username-wrapper::after {
+    background-color: #f04747 !important;
+    padding: 0px 4px;
+    border: 2px outset rgba(255, 255, 255, 0.01);
+    content: "support";
+    text-transform: uppercase;
+    display: inline-block;
+    margin-left: 4px;
+    font-size: small;
+    text-shadow: 0 0 2px rgba(255, 255, 255, 0);
+}
 #friends .btn {
     background-color: #f04747;
     border-radius: 3px;
