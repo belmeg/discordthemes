@@ -2648,3 +2648,7 @@ div[class^="uploadModal"] {
     background-color: rgba(40, 67, 165, 0.63);
     border-color: rgba(43, 46, 50, 0);
 }
+.theme-dark .member-3W1lQa:hover .content-OzHfo4 {
+    background-color: rgba(69, 116, 210, 0.41);
+    color: #fff;
+}
