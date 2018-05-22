@@ -2480,4 +2480,10 @@ div[class^="connectedAccountOpenIcon"] {
 
 .chat div[class^="titleWrapper"] svg[name="Mention"] {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////+QlxstAAAAGXRSTlMAECAwQE9QX2BvcH+An6CvsL/Az9Df4O/wqrhjWwAAAOBJREFUeAHNkNGOqzAMBY1J21xuCS7QJvP/P7q7tZQNAqF97LwcKTmaOJYPo7s9Flimf3p8PVIZO9kRM1jsRfpokMPuHqya1SDKhivbkztsHF1mENk2cjtHwvz4wfIf5JuZ1Ajg/f6K854DfhUD5toSJBQviDWvGlcXBJ/X/8VcCy/6nwBpomepBdiH51mhg/Mnrqy1MBObIf1/3ZPYrC155CAhw0P18mwEoptFrcWjXbUxuWrmdRdNsEZp0UKUUyJ/aExahdNy0CgwXlREbyOUIDs0UUkqR+hgBVYbVD6LLy2bEtQK3TtvAAAAAElFTkSuQmCC) !important; }
-
+.theme-dark .bar-2Qqk5Z {
+    background: #ea0a0a;
+}
+.barFill-23-gu- {
+    background: rgba(227, 255, 3, 0.44);
+    height: 100%;
+}
