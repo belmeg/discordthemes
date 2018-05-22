@@ -330,3 +330,6 @@ div[class^="contextMenu-"].theme-dark {
 .theme-dark .embedPill-1Zntps {
     background-color: #0062ff;
 }
+.message-group .comment .accessory.censored:not(.revealed), .message-group .comment .markup:not(.revealed) {
+    font-family: segoe UI;
+}
