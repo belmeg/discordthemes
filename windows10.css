@@ -348,3 +348,21 @@ div[class^="contextMenu-"].theme-dark {
 .theme-dark #friends .tab-bar .tab-bar-item:hover:not(.selected) {
     background-color: rgba(68, 98, 175, 0.63);
 }
+.container-2Thooq {
+    -ms-flex-align: center;
+    -ms-flex-negative: 0;
+    -webkit-box-align: center;
+    align-items: center;
+    background: rgba(32,34,37,.3);
+    color: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-shrink: 0;
+    font-size: 14px;
+    font-weight: 400;
+    height: 55px;
+    margin-bottom: 1px;
+    padding: 0 10px;
+    border-top: 6px solid rgba(58, 113, 193, 0.53);
+}
