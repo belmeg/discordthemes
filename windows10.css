@@ -71,6 +71,12 @@ background: var(--background-image);background-position: center;;background-size
 .itemGroup-1tL0uz > .itemSubMenu-1vN_Yn ~ .item-1Yvehc:last-child span{
     color:red;
 }
+.guilds-wrapper .guilds .guild.unread:before {
+    background: #f04747;
+    border-radius: 5px;
+    height: 10px;
+    margin-top: -6px;
+}
 .theme-dark .cardPrimaryEditable-3KtE4g {
     background: rgba(89, 102, 121, 0);
     border-color: rgba(32, 34, 37, 0);
