@@ -202,7 +202,19 @@ background-position: center;
 
 .spinner .spinner-wandering-cubes span:last-of-type {
   display: none; }
-
+#bd-settings-sidebar .ui-tab-bar-header {
+    color: #f04747;
+    padding: 6px 10px;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    flex-shrink: 0;
+    font-weight: 500;
+    font-family: segoe UI;
+}
 span[class^="spinner-"] span[class^="inner-"] span[class^="wanderingCubesItem"]:first-of-type {
   width: 32px;
   height: 32px;
