@@ -71,6 +71,13 @@ background: var(--background-image);background-position: center;;background-size
 .content-column.default > div > div > div:nth-child(2) > div > div[style="padding: 10px;"]:nth-child(1){
   display:none!important;
 }
+a {
+    -webkit-transition: opacity .5s,color .5s;
+    color: rgba(244, 205, 0, 0.95);
+    cursor: pointer;
+    text-decoration: none;
+    transition: opacity .5s,color .5s;
+}
 .contentSelectedText-3wUhMi {
  background: linear-gradient(to left, transparent,
  rgba(23,18,20,.1),
