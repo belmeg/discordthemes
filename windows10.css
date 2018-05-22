@@ -2547,3 +2547,7 @@ div[class^="uploadModal"] {
     border: 1px solid var(--accent);
     border-radius: 0;
 }
+#bda-qem-emojis::before {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAMAAADzapwJAAAAS1BMV…S4+q4yqfXPb5og88xIujECmz/GQcaHG+NoMt9Z9AYSIZzzBkhjB7ek8/XEAAAAAElFTkSuQmCC) !important;
+    background-color: purple;
+}
