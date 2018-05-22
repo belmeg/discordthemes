@@ -200,6 +200,14 @@ background-position: center;
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
 }
+.guilds-wrapper .guilds .guild.selected:before {
+    -webkit-transition: height .25s ease-in-out,margin-top .25s ease-in-out;
+    background: #faa61a;
+    border-radius: 20px;
+    height: 40px;
+    margin-top: -20px;
+    transition: height .25s ease-in-out,margin-top .25s ease-in-out;
+}
 .theme-dark .description-3_Ncsb, .theme-dark .labelDescriptor-1PqHgD {
     color: #72767d;
     font-size: small;
