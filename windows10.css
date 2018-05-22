@@ -2547,3 +2547,7 @@ div[class^="connectedAccountOpenIcon"] {
 
 #bda-qem-emojis::before {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAMAAADzapwJAAAAS1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////+DmQsHAAAAGHRSTlMAECAwP0BPUGBvcICPkJ+gr7C/z9Dg7/BFGqxSAAAAn0lEQVR42p3PwRKCMAwE0E1DKIpaJSnk/79UpmrKjDfeLTuZbYqTaBjoL5zVd3rBEauXLJKLKx/S1RKaZGvPzaKVTKPXE0Ly6bdcgPu1LdyA8l0nz4BX7KoD2T+N4gJwag3cxohDG6MktJJ4Mj/RvDKK9QPZFwZ4ce4HwpS4+q4yqfXPb5og88xIujECmz/GQcaHG+NoMt9Z9AYSIZzzBkhjB7ek8/XEAAAAAElFTkSuQmCC) !important; }
+
+.chat div[class^="titleWrapper"] svg[name="Mention"] {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////+QlxstAAAAGXRSTlMAECAwQE9QX2BvcH+An6CvsL/Az9Df4O/wqrhjWwAAAOBJREFUeAHNkNGOqzAMBY1J21xuCS7QJvP/P7q7tZQNAqF97LwcKTmaOJYPo7s9Flimf3p8PVIZO9kRM1jsRfpokMPuHqya1SDKhivbkztsHF1mENk2cjtHwvz4wfIf5JuZ1Ajg/f6K854DfhUD5toSJBQviDWvGlcXBJ/X/8VcCy/6nwBpomepBdiH51mhg/Mnrqy1MBObIf1/3ZPYrC155CAhw0P18mwEoptFrcWjXbUxuWrmdRdNsEZp0UKUUyJ/aExahdNy0CgwXlREbyOUIDs0UUkqR+hgBVYbVD6LLy2bEtQK3TtvAAAAAElFTkSuQmCC) !important; }
+
