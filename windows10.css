@@ -68,6 +68,10 @@ background: var(--background-image);background-position: center;;background-size
 .itemGroup-1tL0uz > .itemSubMenu-1vN_Yn ~ .item-1Yvehc:last-child span{
     color:red;
 }
+.theme-dark .cardPrimaryEditable-3KtE4g {
+    background: rgba(89, 102, 121, 0);
+    border-color: rgba(32, 34, 37, 0);
+}
 .content-column.default > div > div > div:nth-child(2) > div > div[style="padding: 10px;"]:nth-child(1){
   display:none!important;
 }
