@@ -55,6 +55,15 @@ background: var(--background-image);background-position: center;;background-size
 .mentioned .mention:hover {
     color: #43b581;
 }
+.chat .new-messages-bar button {
+    background: rgb(47, 49, 54);
+    color: #fff;
+    font-family: segoe UI;
+    font-weight: 500;
+    line-height: 14px;
+    padding: 6px 10px;
+    text-align: left;
+}
 .guilds-wrapper {
     opacity:0;
     max-width:10px;
