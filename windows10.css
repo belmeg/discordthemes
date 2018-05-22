@@ -2542,3 +2542,8 @@ div[class^="uploadModal"] {
     background: #25282d;
     color: #f00;
 }
+.theme-dark div[class^="modal-"] > div[class^="inner"] > div[class^="modal"]:not(.modal-image), .theme-dark div[class^="modal-"] > div[class^="inner"] > form[class^="modal"] {
+    background-color: rgba(25, 25, 25, 0);
+    border: 1px solid var(--accent);
+    border-radius: 0;
+}
