@@ -85,6 +85,11 @@ background: linear-gradient(to left, transparent,
  rgba(23,18,20,1),
  rgba(0,91,100,1));
 }
+.lookFilled-1Gx00P.colorRed-1TFJan, .lookOutlined-3sRXeN.colorRed-1TFJan, [class="itemDefault-3Jdr52 item-PXvHYJ notSelected-1N1G5p"][style*="color: rgb(240, 71, 71);"] {
+    background-color: #faa61a !important;
+    color: #fff !important;
+    border: 1px solid rgba(240, 71, 71, 0);
+}
 .avatar-small{
  height:40px;
 width:40px;
