@@ -366,3 +366,22 @@ div[class^="contextMenu-"].theme-dark {
     padding: 0 10px;
     border-top: 6px solid rgba(58, 113, 193, 0.53);
 }
+.app.theme-light::before {
+  content: "Please enable the Dark Theme in your Appearance settings.";
+  height: 36px;
+  background-color: #D02E00;
+  color: #FFF;
+  font-size: 15px;
+  line-height: 36px;
+  text-align: center;
+  vertical-align: middle; }
+
+body.bd-blue .app::before {
+  content: "Please disable \"BetterDiscord Blue\" mode in BetterDiscord settings.";
+  height: 36px;
+  background-color: #D02E00;
+  color: #FFF;
+  font-size: 15px;
+  line-height: 36px;
+  text-align: center;
+  vertical-align: middle; }
