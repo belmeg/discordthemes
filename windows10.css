@@ -151,6 +151,17 @@ background-repeat:none;
 background-size: cover;
 background-position: center;
 }
+.message-group .mentioned .message-text:after {
+    background: rgba(114, 137, 218, 0);
+    border-left: 6px solid #43b581;
+    border-radius: 2px 0 0 2px;
+    bottom: 0;
+    content: " ";
+    left: -6px;
+    position: absolute;
+    top: 0;
+    width: 2px;
+}
 .theme-dark .inner-zqa7da {
     background-color: hsla(224, 79%, 57%, 0.4);
     border-left: 6px solid rgba(0, 35, 255, 0.69);
