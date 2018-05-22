@@ -54,6 +54,10 @@ background: var(--background-image);background-position: center;;background-size
     opacity:1;
     max-width:70px;
 }
+#bd-settings-sidebar .ui-tab-bar-item:hover {
+    color: #f6f6f7;
+    background-color: #43b581;
+}
 .contentSelectedText-3wUhMi {
     background-color: rgb(1, 41, 77);
 }
