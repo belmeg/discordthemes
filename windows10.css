@@ -92,6 +92,10 @@ background-position: center;
     background-color: hsla(224, 79%, 57%, 0.4);
     border-left: 6px solid rgba(0, 35, 255, 0.69);
 }
+.ui-standard-sidebar-view .bda-slist li, .ui-standard-sidebar-view .bda-slist li:nth-child(odd) {
+    background-color: rgba(25, 25, 25, 0);
+    border: 0;
+}
 .chat .avatar-large {
     -webkit-transition: opacity .2s ease;
     cursor: pointer;
