@@ -333,3 +333,7 @@ div[class^="contextMenu-"].theme-dark {
 .message-group .comment .accessory.censored:not(.revealed), .message-group .comment .markup:not(.revealed) {
     font-family: segoe UI;
 }
+.theme-dark .message-group h2 strong {
+    color: #fff;
+    font-family: segoe UI;
+}
