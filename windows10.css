@@ -58,6 +58,9 @@ background: var(--background-image);background-position: center;;background-size
     color: #f6f6f7;
     background-color: #43b581;
 }
+.nameSelectedText-sp_EUw, .nameSelectedVoice-1qSph5 {
+    color: #43b581;
+}
 .contentSelectedText-3wUhMi {
     background-color: rgb(1, 41, 77);
 }
