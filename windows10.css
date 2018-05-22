@@ -345,3 +345,6 @@ div[class^="contextMenu-"].theme-dark {
     background-color: rgba(240, 71, 71, 0.56);
     color: #fff;
 }
+.theme-dark #friends .tab-bar .tab-bar-item:hover:not(.selected) {
+    background-color: rgba(68, 98, 175, 0.63);
+}
