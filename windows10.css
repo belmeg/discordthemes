@@ -407,6 +407,19 @@ div[class^="contextMenu-"].theme-dark {
 .channel-notices .channel-notice.quickswitcher-notice .btn {
   font-weight: normal;
   text-transform: none; }
+.side-8zPYf6 .itemSelected-1qLhcL {
+    background-color: #43b581;
+    color: #fff;
+}
+   .theme-dark .side-8zPYf6 .itemDefault-3Jdr52:hover, .theme-dark .side-8zPYf6 .itemHover-EnbcjT:hover {
+    background-color: #3a71c1;
+    color: #f6f6f7;
+}
+div.platform-osx .side-8zPYf6 .item-PXvHYJ:nth-of-type(7), div.platform-win .side-8zPYf6 .item-PXvHYJ:nth-of-type(7) {
+    background-color: #3a71c1!important;
+    color: #fff!important;
+    font-weight: 600!important;
+}
 
 div[class^="channels-"] .container-1UB9sr {
   background-color: #191919;
