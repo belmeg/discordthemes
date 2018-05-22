@@ -2282,7 +2282,10 @@ div[class^="emojiPicker"] {
   background-repeat: no-repeat;
   display: block;
   height: 39px; }
-
+.Select .Select-menu {
+    border-radius: 0 0 3px 3px;
+    background-color: black;
+}
 #bda-qem-favourite::before {
   content: "";
   background-size: 22px;
