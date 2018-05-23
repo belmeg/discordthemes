@@ -199,9 +199,11 @@ a {
  rgba(23,18,20,.1),
  rgba(0,91,100,1));
 }
-.emote{
- height: 30px;
- width: 25px;
+.theme-dark .friends-table .messages .divider:before, .theme-dark .friends-table .messages .divider span, .theme-dark .messages-wrapper .messages .divider:before, .theme-dark .messages-wrapper .messages .divider span {
+    background-color: rgba(54, 57, 62, 0);
+}
+.theme-dark .friends-table .messages .divider.divider-red>span, .theme-dark .messages-wrapper .messages .divider.divider-red>span {
+    color: #7289da;
 }
 .theme-dark #friends .friends-table .friends-row:hover {
 background: linear-gradient(to left, transparent,
