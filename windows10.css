@@ -87,6 +87,7 @@ background: var(--background-image);background-position: center;;background-size
 .nameSelectedText-sp_EUw, .nameSelectedVoice-1qSph5 {
     color: #43b581;
 }
+.theme-dark .selectorSelected-1_M1WV { background-color: hsl(0, 0%, 100%); } .autocompleteInner-zh20B_ { padding-bottom: 8px; background-color: #000000; }
 .contentSelectedText-3wUhMi {
     background-color: rgb(1, 41, 77);
 }
