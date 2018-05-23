@@ -69,6 +69,9 @@ background: var(--background-image);background-position: center;;background-size
     max-width:10px;
     transition: all  .1s ease-in-out;
 }
+.theme-dark .search-results-wrap {
+    background-color: #000000;
+}
 .guilds-wrapper:hover{
     opacity:1;
     max-width:70px;
