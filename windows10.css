@@ -2761,3 +2761,7 @@ div[class^="uploadModal"] {
 .theme-dark .chat .jump-to-present-bar:hover {
     background-color: #faa61a;
 }
+.theme-dark .search-results-wrap .search-header .tab.selected, .theme-dark .search-results-wrap .search-header .tab:hover {
+    border-bottom: 2px solid #fff;
+    font-family: segoe UI;
+}
