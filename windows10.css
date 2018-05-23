@@ -75,6 +75,14 @@ div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteActions"
     height: 55px;
     width: 45px;
 }
+.lookFilled-1Gx00P .contents-18-Yxp, .lookInverted-2D7oAl .contents-18-Yxp, .lookLink-9FtZy- .contents-18-Yxp, .lookOutlined-3sRXeN .contents-18-Yxp {
+    margin: 0 auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #f6f6f7;
+    background-color: rgba(250, 235, 215, 0);
+}
 .mention {
     -webkit-transition: background-color .05s,color .05s;
     background: #43b581;
