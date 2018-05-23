@@ -67,6 +67,10 @@ background: var(--background-image);background-position: center;;background-size
     padding: 6px 10px;
     text-align: left;
 }
+.theme-dark .accountBtnInner-sj5jLs {
+    background-color: rgba(114, 137, 218, 0);
+    border-color: rgba(32, 34, 37, 0);
+}
 .guilds-wrapper {
     opacity:0;
     max-width:10px;
