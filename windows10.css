@@ -50,14 +50,6 @@ div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteBody"] {
     font-size: 15px;
     font-weight: 400;
 }
-.lookFilled-1Gx00P .contents-18-Yxp, .lookInverted-2D7oAl .contents-18-Yxp, .lookLink-9FtZy- .contents-18-Yxp, .lookOutlined-3sRXeN .contents-18-Yxp {
-    margin: 0 auto;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    color: red;
-    background-color: antiquewhite;
-}
 div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteActions"] div[class^="inviteCancel"] {
     width: calc(50% - 2px);
     height: 36px;
