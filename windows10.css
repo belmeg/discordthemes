@@ -2764,3 +2764,6 @@ div[class^="uploadModal"] {
     border-radius: 14px;
     transition: background .15s ease-in-out,box-shadow .15s ease-in-out,border .15s ease-in-out;
 }
+.theme-dark .chat .jump-to-present-bar:hover {
+    background-color: #faa61a;
+}
