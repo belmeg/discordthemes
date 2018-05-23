@@ -50,6 +50,10 @@ div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteBody"] {
     font-size: 15px;
     font-weight: 400;
 }
+.headerTop-3C2Zn0 {
+    padding: 20px 10px;
+    background-image: url(https://wallpapercave.com/wp/NF7StKc.jpg);
+}
 div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteActions"] div[class^="inviteCancel"] {
     width: calc(50% - 2px);
     height: 36px;
