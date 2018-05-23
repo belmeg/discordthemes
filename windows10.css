@@ -368,6 +368,10 @@ span[class^="spinner-"] span[class^="inner-"] span[class^="wanderingCubesItem"]:
     background: rgba(95, 141, 210, 0.6);
     border-color: rgba(32, 34, 37, 0);
 }
+.theme-dark .contentTitle-2tG_sM {
+    color: #000000;
+    font-family: segoe UI;
+}
 .container-16j22k {
   background-color: #191919; }
   .container-16j22k div[class^="content-"] {
