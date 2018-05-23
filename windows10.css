@@ -80,6 +80,11 @@ background: var(--background-image);background-position: center;;background-size
     background-color: #faa61a;
     color: #000000;
 }
+.autocompleteInner-zh20B_ {
+    padding-bottom: 8px;
+    background-color: hsla(251, 73%, 47%, 0);
+    background-image: url(http://cdn1.knowyourmobile.com/sites/knowyourmobilecom/files/styles/gallery_wide/public/4/49/windowsbluedrup.jpg?itok=uj5EC1xR);
+}
 #bd-settings-sidebar .ui-tab-bar-item:hover {
     color: #f6f6f7;
     background-color: #43b581;
