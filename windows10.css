@@ -99,6 +99,9 @@ background: var(--background-image);background-position: center;;background-size
 .contentSelectedText-3wUhMi {
     background-color: rgb(1, 41, 77);
 }
+.theme-dark .selectorSelected-1_M1WV {
+    background-color: rgba(255, 127, 0, 0.97);
+}
 .message-group .emoji{
  height: 80px;
  width: 70px;
