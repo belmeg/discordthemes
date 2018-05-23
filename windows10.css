@@ -74,6 +74,10 @@ background: var(--background-image);background-position: center;;background-size
     background-color: rgba(114, 137, 218, 0);
     border-color: rgba(32, 34, 37, 0);
 }
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary.selected {
+    background-color: #3a71c1;
+    color: #36393f;
+}
 .guilds-wrapper {
     opacity:0;
     max-width:10px;
