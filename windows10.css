@@ -67,6 +67,10 @@ background: var(--background-image);background-position: center;;background-size
     padding: 6px 10px;
     text-align: left;
 }
+.theme-dark .friends-table .messages .divider.divider-red>div, .theme-dark .messages-wrapper .messages .divider.divider-red>div {
+    background: hsla(0, 0%, 100%, 0);
+    opacity: .4;
+}
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary:hover:not(.selected) {
     background-color: #43b581;
 }
