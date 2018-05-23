@@ -55,6 +55,9 @@ background: var(--background-image);background-position: center;;background-size
 .mentioned .mention:hover {
     color: #43b581;
 }
+.theme-dark .footer-1fjuF6 {
+    border-color: rgba(32,34,37,.3);
+}
 .chat .new-messages-bar button {
     background: rgb(47, 49, 54);
     color: #fff;
