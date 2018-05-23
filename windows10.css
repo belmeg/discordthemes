@@ -36,6 +36,40 @@ background: var(--background-image);background-position: center;;background-size
     height: 55px;
     width: 45px;
 }
+.inviteModal-34DdOm .scroller-3__pG8 {
+    background: rgb(0, 0, 0) url(/assets/29d5ff462afb11bce1979cf694aee3d1.png) repeat;
+    background-size: 200px 204px;
+    height: 100%;
+    position: relative;
+    width: 400px;
+}
+div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteBody"] {
+    width: 350px;
+    padding: 0;
+    color: #00ff8b;
+    font-size: 15px;
+    font-weight: 400;
+}
+.lookFilled-1Gx00P .contents-18-Yxp, .lookInverted-2D7oAl .contents-18-Yxp, .lookLink-9FtZy- .contents-18-Yxp, .lookOutlined-3sRXeN .contents-18-Yxp {
+    margin: 0 auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: red;
+    background-color: antiquewhite;
+}
+div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteActions"] div[class^="inviteCancel"] {
+    width: calc(50% - 2px);
+    height: 36px;
+    margin: 0;
+    padding: 9px 12px 10px;
+    box-sizing: border-box;
+    color: #3a71c1;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1;
+    text-align: center;
+}
 .autocompleteInner-zh20B_ {
     padding-bottom: 8px;
     background: #000000;
