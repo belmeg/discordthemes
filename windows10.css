@@ -66,10 +66,6 @@ div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteActions"
     line-height: 1;
     text-align: center;
 }
-.autocompleteInner-zh20B_ {
-    padding-bottom: 8px;
-    background: #000000;
-}
 .guilds-wrapper .guilds .friends-icon:hover{
     background-image: url(https://i.imgur.com/aHw3huz.png);
     background-position: 50%;
@@ -148,8 +144,9 @@ div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteActions"
     background-color: #faa61a;
     color: #000000;
 }
-.autocompleteInner-zh20B_ { padding-bottom: 8px; background-color: hsla(251, 73%, 47%, 0); background-image: url(http://cdn1.knowyourmobile.com/sites/knowyourmobilecom/files/styles/gallery_wide/public/4/49/windowsbluedrup.jpg?itok=uj5EC1xR); 
+.autocompleteInner-zh20B_ { padding-bottom: 8px; background-color: hsla(251, 73%, 47%, 0); background-image: url(https://static.techspot.com/images2/news/bigimage/2015/05/2015-05-31_12-25-59.png); 
     background-repeat: no-repeat;
+    background-position: center;
 }
 #bd-settings-sidebar .ui-tab-bar-item:hover {
     color: #f6f6f7;
