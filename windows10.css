@@ -54,6 +54,10 @@ div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteBody"] {
     padding: 20px 10px;
     background-image: url(https://wallpapercave.com/wp/NF7StKc.jpg);
 }
+.theme-dark .search-results-wrap .search-result:after {
+    background-image: -webkit-gradient(linear,left top,left bottom,from(rgba(47,49,54,0)),to(rgba(47, 49, 54, 0)));
+    background-image: linear-gradient(180deg,rgba(47,49,54,0),rgba(47, 49, 54, 0));
+}
 div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteActions"] div[class^="inviteCancel"] {
     width: calc(50% - 2px);
     height: 36px;
