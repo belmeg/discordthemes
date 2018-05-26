@@ -12,3 +12,11 @@ theme
 ![screenshot_5](https://user-images.githubusercontent.com/31587917/40371093-624041ac-5dff-11e8-8000-8ed68724eaa9.png)
 
 ==============
+
+patreon - https://www.patreon.com/gco360
+ 
+ patreon will get a role on my server not only  that they will get the role in my themes
+ 
+ ![screenshot_2](https://user-images.githubusercontent.com/31587917/40572623-3607c7be-60ce-11e8-8d83-5f4de4870909.png)
+
+like that 
