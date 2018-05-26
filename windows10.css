@@ -121,6 +121,14 @@ div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteActions"
     padding: 6px 10px;
     text-align: left;
 }
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
+   background-color: rgba(0, 0, 0, 0.1); 
+   border: rgba(0, 0, 0, 0.1); 
+}
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
+    background-color: tomato;
+    border-color:rgba(0, 0, 0, 0.1); 
+}
 .theme-dark .friends-table .messages .divider.divider-red>div, .theme-dark .messages-wrapper .messages .divider.divider-red>div {
     background: hsla(0, 0%, 100%, 0);
     opacity: .4;
