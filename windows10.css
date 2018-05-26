@@ -70,6 +70,14 @@ div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteActions"
     line-height: 1;
     text-align: center;
 }
+.theme-dark .search-results-wrap .search-result .search-result-message.hit {
+    border: 2px solid rgb(28, 36, 43);
+}
+.theme-dark .search-results-wrap .search-result .hit {
+    -webkit-box-shadow: 0 0 10px 6px rgba(47, 49, 54, 0);
+    background-color: rgba(54, 57, 62, 0);
+    box-shadow: 0 0 10px 6px rgba(47, 49, 54, 0);
+}
 .guilds-wrapper .guilds .friends-icon:hover{
     background-image: url(https://i.imgur.com/aHw3huz.png);
     background-position: 50%;
