@@ -2437,14 +2437,6 @@ div[class^="emojiPicker"] {
   display: block;
   height: 39px; }
 
-#bda-qem-emojis::before {
-  content: "";
-  background-size: 22px;
-  background-position: center;
-  background-repeat: no-repeat;
-  display: block;
-  height: 39px; }
-
 #bda-qem-twitch-container,
 #bda-qem-favourite-container {
   width: 462px;
@@ -2540,7 +2532,10 @@ div[class^="emojiPicker"] {
   background-color: #171717;
   border: 0;
   border-radius: 0; }
-
+#bda-qem button.active {
+    background-color: var(--accent);
+    background-image: url(https://png.icons8.com/metro/288/neutral-emoticon.png) !important;
+}
 .tipsy {
   margin-top: -42px;
   opacity: 1 !important; }
@@ -2742,8 +2737,9 @@ div[class^="connectedAccountOpenIcon"] {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////+QlxstAAAAGXRSTlMAECAwP0BQYG9wf4CPkKCvsL/Az9Df4O/wp86tKAAAAOxJREFUGBmtwduSgjAURcF9iAExGrlEkvX/PzqUUpTgyJPd+rmq0rEYdcjAdCRA0JECWQcahkSj7yaahoe+8kzShNc3A0EK9PqPP50vFJOscDmfTlpZuPcjL1GzyMvY3y+mWVOYpSGGYJpZCHFIzEqjJ1cYTTs2UpwWrjCaNmykOK2qRHZ64zKp0htLZKeVyyTThnXkWos605n2El4LT9InMC0M9MExaTXhtNcSJVV9X0nqaLUXaWVXZldTS9RewrcZbjfIZ8+oPXjAUEnVAA/QjgemWk/1BHhtBUrQKhSCtrpoemOx05Zpx/Qrf6RVEBLhn3UqAAAAAElFTkSuQmCC); }
 
 #bda-qem-emojis::before {
-  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAMAAADzapwJAAAAS1BMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////+DmQsHAAAAGHRSTlMAECAwP0BPUGBvcICPkJ+gr7C/z9Dg7/BFGqxSAAAAn0lEQVR42p3PwRKCMAwE0E1DKIpaJSnk/79UpmrKjDfeLTuZbYqTaBjoL5zVd3rBEauXLJKLKx/S1RKaZGvPzaKVTKPXE0Ly6bdcgPu1LdyA8l0nz4BX7KoD2T+N4gJwag3cxohDG6MktJJ4Mj/RvDKK9QPZFwZ4ce4HwpS4+q4yqfXPb5og88xIujECmz/GQcaHG+NoMt9Z9AYSIZzzBkhjB7ek8/XEAAAAAElFTkSuQmCC) !important; }
-
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAMAAADzapwJAAAAS1BMV…S4+q4yqfXPb5og88xIujECmz/GQcaHG+NoMt9Z9AYSIZzzBkhjB7ek8/XEAAAAAElFTkSuQmCC) !important;
+    background-color: #800080;
+}
 .chat div[class^="titleWrapper"] svg[name="Mention"] {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////+QlxstAAAAGXRSTlMAECAwQE9QX2BvcH+An6CvsL/Az9Df4O/wqrhjWwAAAOBJREFUeAHNkNGOqzAMBY1J21xuCS7QJvP/P7q7tZQNAqF97LwcKTmaOJYPo7s9Flimf3p8PVIZO9kRM1jsRfpokMPuHqya1SDKhivbkztsHF1mENk2cjtHwvz4wfIf5JuZ1Ajg/f6K854DfhUD5toSJBQviDWvGlcXBJ/X/8VcCy/6nwBpomepBdiH51mhg/Mnrqy1MBObIf1/3ZPYrC155CAhw0P18mwEoptFrcWjXbUxuWrmdRdNsEZp0UKUUyJ/aExahdNy0CgwXlREbyOUIDs0UUkqR+hgBVYbVD6LLy2bEtQK3TtvAAAAAElFTkSuQmCC) !important; }
 .theme-dark .bar-2Qqk5Z {
