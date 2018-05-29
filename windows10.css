@@ -133,10 +133,7 @@ div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteActions"
     background: hsla(0, 0%, 100%, 0);
     opacity: .4;
 }
-.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
-    background-color: rgba(47, 49, 54, 0);
-    color: hsla(0,0%,100%,.8);
-}
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 { background-color: rgba(47, 49, 54, 0.9); color: hsla(0,0%,100%,.8); }
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary:hover:not(.selected) {
     background-color: #43b581;
 }
