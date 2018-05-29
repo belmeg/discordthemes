@@ -2401,10 +2401,8 @@ span[class^="spinner-"] span[class^="inner-"] span[class^="wanderingCubesItem"]:
   box-shadow: none; }
 
 #bda-qem button:hover {
-  background-color: #262626; }
-
-#bda-qem button.active {
-  background-color: var(--accent); }
+  background-color: #262626;
+}
 
 #bda-qem-twitch,
 #bda-qem-favourite,
@@ -2532,10 +2530,6 @@ div[class^="emojiPicker"] {
   background-color: #171717;
   border: 0;
   border-radius: 0; }
-#bda-qem button.active {
-    background-color: var(--accent);
-    background-image: url(https://png.icons8.com/metro/288/neutral-emoticon.png) !important;
-}
 .tipsy {
   margin-top: -42px;
   opacity: 1 !important; }
