@@ -106,6 +106,36 @@ div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteActions"
     font-weight: 500;
     transition: background-color .05s,color .05s;
 }
+.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar, 
+.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-track, 
+.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-track-piece, 
+.bda-dark #pubs-container .scroller ::-webkit-scrollbar, 
+.bda-dark #pubs-container .scroller ::-webkit-scrollbar-track, 
+.bda-dark #pubs-container .scroller ::-webkit-scrollbar-track-piece,
+.bda-dark .emoji-picker .scroller::-webkit-scrollbar, 
+.bda-dark .emoji-picker .scroller::-webkit-scrollbar-track, 
+.bda-dark .emoji-picker .scroller::-webkit-scrollbar-track-piece, 
+.bda-dark .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar, 
+.bda-dark .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar-track, 
+.bda-dark .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar-track-piece {
+    background-color: #43b581 !important;
+    border-color: rgba(0, 0, 0, 0) !important;
+}
+.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-thumb,
+.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-thumb,
+.scrollerThemed-2oenus.themeLight-1_DWyY .scroller-2FKFPG::-webkit-scrollbar-thumb, 
+.theme-dark .scrollerThemed-2oenus.themeLight-1_DWyY .scroller-2FKFPG::-webkit-scrollbar-thumb, 
+.theme-light .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb,
+.bda-dark #pubs-container .scroller::-webkit-scrollbar-thumb {
+    border-color: #43b581 !important;
+    background-color:rgba(0, 0, 0, 0) !important;
+}
+.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar, 
+.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-track, 
+.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-track-piece {
+    background-color: #43b581 !important;
+    border-color: rgba(0, 0, 0, 0) !important;
+}
 .mentioned .mention:hover {
     color: #43b581;
 }
