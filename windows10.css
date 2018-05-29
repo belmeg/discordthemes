@@ -2731,8 +2731,7 @@ div[class^="connectedAccountOpenIcon"] {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////+QlxstAAAAGXRSTlMAECAwP0BQYG9wf4CPkKCvsL/Az9Df4O/wp86tKAAAAOxJREFUGBmtwduSgjAURcF9iAExGrlEkvX/PzqUUpTgyJPd+rmq0rEYdcjAdCRA0JECWQcahkSj7yaahoe+8kzShNc3A0EK9PqPP50vFJOscDmfTlpZuPcjL1GzyMvY3y+mWVOYpSGGYJpZCHFIzEqjJ1cYTTs2UpwWrjCaNmykOK2qRHZ64zKp0htLZKeVyyTThnXkWos605n2El4LT9InMC0M9MExaTXhtNcSJVV9X0nqaLUXaWVXZldTS9RewrcZbjfIZ8+oPXjAUEnVAA/QjgemWk/1BHhtBUrQKhSCtrpoemOx05Zpx/Qrf6RVEBLhn3UqAAAAAElFTkSuQmCC); }
 
 #bda-qem-emojis::before {
-    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAMAAADzapwJAAAAS1BMV…S4+q4yqfXPb5og88xIujECmz/GQcaHG+NoMt9Z9AYSIZzzBkhjB7ek8/XEAAAAAElFTkSuQmCC) !important;
-    background-color: #800080;
+    background-image: url(https://cdn.discordapp.com/attachments/440405291968757762/450963588522180639/icons8-neutral-32.png) !important;
 }
 .chat div[class^="titleWrapper"] svg[name="Mention"] {
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAATlBMVEUAAAD///////////////////////////////////////////////////////////////////////////////////////////////////+QlxstAAAAGXRSTlMAECAwQE9QX2BvcH+An6CvsL/Az9Df4O/wqrhjWwAAAOBJREFUeAHNkNGOqzAMBY1J21xuCS7QJvP/P7q7tZQNAqF97LwcKTmaOJYPo7s9Flimf3p8PVIZO9kRM1jsRfpokMPuHqya1SDKhivbkztsHF1mENk2cjtHwvz4wfIf5JuZ1Ajg/f6K854DfhUD5toSJBQviDWvGlcXBJ/X/8VcCy/6nwBpomepBdiH51mhg/Mnrqy1MBObIf1/3ZPYrC155CAhw0P18mwEoptFrcWjXbUxuWrmdRdNsEZp0UKUUyJ/aExahdNy0CgwXlREbyOUIDs0UUkqR+hgBVYbVD6LLy2bEtQK3TtvAAAAAElFTkSuQmCC) !important; }
@@ -2785,10 +2784,6 @@ div[class^="uploadModal"] {
     background-color: rgba(25, 25, 25, 0);
     border: 1px solid var(--accent);
     border-radius: 0;
-}
-#bda-qem-emojis::before {
-    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAMAAADzapwJAAAAS1BMV…S4+q4yqfXPb5og88xIujECmz/GQcaHG+NoMt9Z9AYSIZzzBkhjB7ek8/XEAAAAAElFTkSuQmCC) !important;
-    background-color: purple;
 }
 .theme-dark .search-results-wrap .channel-separator .channel-name {
     background-color: rgba(47, 49, 54, 0);
