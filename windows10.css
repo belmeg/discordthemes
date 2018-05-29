@@ -87,31 +87,6 @@ div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteActions"
     height: 55px;
     width: 45px;
 }
-.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar, 
-.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-track, 
-.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-track-piece, 
-.bda-dark #pubs-container .scroller::-webkit-scrollbar, 
-.bda-dark #pubs-container .scroller::-webkit-scrollbar-track, 
-.bda-dark #pubs-container .scroller::-webkit-scrollbar-track-piece {
-    background-color: #303030 !important;
-    border-color: #303030 !important;
-}
-/* Scrollbar Thumb for all Emote Pickers */
-.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-thumb,
-.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-thumb,
-.bda-dark .emoji-picker .scroller::-webkit-scrollbar-thumb,
-.bda-dark emojiPicker-3g68GS .scroller-3vODG7::-webkit-scrollbar-thumb,
-.bda-dark #pubs-container .scroller::-webkit-scrollbar-thumb {
-    border-color: #202020 !important;
-    background-color: #202020 !important;
-}
-/* Scrollbar Track Piece for Favorites Emote Picker */
-.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar, 
-.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-track, 
-.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-track-piece {
-    background-color: #303030 !important;
-    border-color: #303030 !important;
-}
 .theme-dark .search-results-wrap .search-result:before {
     background-image: -webkit-gradient(linear,left bottom,left top,from(rgba(47,49,54,0)),to(rgba(47, 49, 54, 0)));
     background-image: linear-gradient(0deg,rgba(47,49,54,0),rgba(47, 49, 54, 0));
@@ -2893,4 +2868,14 @@ div[class^="uploadModal"] {
     background-color: #020202;
     box-shadow: 0 1px 0 rgba(0, 0, 0, 0);
     font-family: segoe UI;
+}
+.bda-dark .emojiPicker-3m1S-j .category-2U57w6 {
+    background-color: #43b581;
+    color: hsl(0, 0%, 100%);
+    font-size: 12px;
+    font-weight: 500;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 4px;
+    text-transform: uppercase;
 }
