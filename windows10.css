@@ -150,6 +150,12 @@ div[class^="inviteModal"] div[class^="inviteContent"] div[class^="inviteActions"
     max-width:10px;
     transition: all  .1s ease-in-out;
 }
+.bda-dark #bda-qem-twitch-container, #bda-qem-favourite-container {
+    width: 346px;
+    height: 327px;
+    background-color: #43b581;
+    border-radius: 0 0 5px 5px;
+}
 .theme-dark .content-Qb0rXO {
     color: #000000;
     font-family: segoe UI;
