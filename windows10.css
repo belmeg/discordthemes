@@ -2923,3 +2923,14 @@ div[class^="uploadModal"] {
     padding: 12px;
     background-color: #43b581;
 }
+.message-group .avatar-large[style*="314206160477749250"] ~ .comment .message h2 span.username-wrapper::after {
+    background-color: #faa61a !important;
+    padding: 0px 4px;
+    border: 2px outset rgba(255, 255, 255, 0.01);
+    content: "patreon";
+    text-transform: uppercase;
+    display: inline-block;
+    margin-left: 4px;
+    font-size: small;
+    text-shadow: 0 0 2px rgba(255, 255, 255, 0);
+}
