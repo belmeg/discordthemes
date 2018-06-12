@@ -29,7 +29,7 @@ background: var(--background-image);background-position: center;;background-size
 .ui-standard-sidebar-view .content-region .content-region-scroller-wrap{background: rgba(0,0,0,0.4);}
 .container-2lgZY8{background-color: rgba(0,0,0,0) !important;}
 .guilds-wrapper .guilds .friends-icon {
-    background-image: url(https://i.imgur.com/mrwgSU2.png);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo-FAF-DZ.svg/1200px-Logo-FAF-DZ.svg.png);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: 50px 50px;
@@ -576,7 +576,7 @@ div[class^="typeWindows-"] div[class^="wordmark"] svg {
   display: none; }
 
 div[class^="typeWindows-"] div[class^="wordmark"]::after {
-  content: "Discord/windows10";
+  content: "Tahia Djazair par BelmeG";
   color: #FFF;
   font-size: 15px;
   position: absolute;
